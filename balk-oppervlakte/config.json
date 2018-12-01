@@ -1,7 +1,6 @@
 {
   "description": {
     "names": {
-      "en": "Surface of a cubeoid"
       "nl": "Oppervlakte van een balk"
     }
   },
@@ -9,4 +8,4 @@
     "pythia_judge": "output"
   },
   "visibility": "open"
-}
+}:w
