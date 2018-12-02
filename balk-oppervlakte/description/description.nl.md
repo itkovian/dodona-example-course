@@ -15,7 +15,7 @@ gegeven afmetingen.
 
 ### Voorbeeld
 
-``python
+```python
 >>> oppervlakte(1, 1, 1)
 6
 
