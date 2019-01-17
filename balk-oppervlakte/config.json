@@ -5,7 +5,7 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "pythia_judge": "doctest"
   },
   "internals": {
     "token": "3FL15qorfV8SUOEr2uOqI8mj19+8pmv+FA/VNSOtxZ3AD0zY6lXHgQIFDJXNrT9a",
