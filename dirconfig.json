@@ -9,7 +9,7 @@
         "supported_programming_languages": "python-3"
     },
     "evaluation": {
-        "handler": "pythia",
+        "handler": "python",
         "time_limit": 15,
         "memory_limit": 500000000
     },
